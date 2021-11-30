@@ -15,3 +15,4 @@ How to share your device with other users?
 To share your device go to List of devices and check choosed device. Click on a button Share and put a username of the user who you want to grant an access.
 How to export data from table?
 To share your device go to List of devices and check choosed device. Under the table you will find Export button which allows you to export a data from table to Excel sheet. Export button allows exporting up to 100 rows (choosed inside a table).
+.
